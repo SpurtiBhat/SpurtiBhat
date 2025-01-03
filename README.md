@@ -79,9 +79,16 @@
 <!-- GitHub Stats Section -->
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <!-- Example GitHub Stats -->
+  <!-- Display GitHub Readme Stats -->
   <a href="https://github.com/yourusername" target="_blank" rel="noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <!-- Display Most Used Languages -->
+  <a href="https://github.com/SpurtiBhat" target="_blank" rel="noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
   </a>
 </p>
 
