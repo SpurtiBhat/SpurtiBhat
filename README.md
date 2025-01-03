@@ -1,18 +1,18 @@
 ![logo](https://github.com/SpurtiBhat/SpurtiBhat/blob/main/Spurti.png)
-<h1 align="center">Hi 👋, I'm Spurti</h1>
-<p> 🌱 I’m currently learning Web development,Generative AI </p>
+<h1 align="center">Hi ✨, I'm Spurti</h1>
+<p>✨ I’m currently learning Web development, Generative AI </p>
 <p>
-👯Am always on the lookout for exciting collaboration opportunities and eager to learn and explore new technologies! Whether it's a creative project, tech innovation, or anything in between
+👯‍♀️ I’m always on the lookout for exciting collaboration opportunities and eager to learn and explore new technologies! Whether it's a creative project, tech innovation, or anything in between.
 </p>
 
 <br>
 <h1 align="center">Let's Connect!</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/spurti-bhat-0628ba255/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="spurti bhat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/spurti-bhat-0628ba255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="spurti bhat" height="30" width="40" /></a>
 </p>
 
 <br>
- <h1 align="center">Languages and Tools</h1>
+<h1 align="center">Languages and Tools</h1>
 
 <!-- Languages Section -->
 <h2 align="center">Languages</h2>
@@ -49,13 +49,39 @@
 <!-- Frameworks Section -->
 <h2 align="center">Frameworks</h2>
 <p align="center"> 
-  <!-- Example frameworks -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> 
-  </a> 
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> 
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/> 
+  </a>
+  <a href="https://lightning.ai/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lightning/lightning-original.svg" alt="lightning" width="40" height="40"/> 
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> 
+  </a>
 </p>
 
 <br>
@@ -74,6 +100,21 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> 
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> 
   </a>
 </p>
 
@@ -94,5 +135,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpurtiBhat&layout=compact&theme=radical" alt="Top Languages"/>
   </a>
 </p>
-
-
