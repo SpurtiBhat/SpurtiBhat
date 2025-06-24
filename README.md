@@ -1,4 +1,4 @@
-![logo](https://github.com/SpurtiBhat/SpurtiBhat/blob/main/Spurti.png)
+
 <h1 align="center">Hi ✨, I'm Spurti</h1>
 <p>✨ I’m currently learning Web development, Generative AI </p>
 <p>
