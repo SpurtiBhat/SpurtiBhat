@@ -1,9 +1,27 @@
 
-<h1 align="center">Hi ✨, I'm Spurti</h1>
-<p>✨ I’m currently learning Web development, Generative AI </p>
+<h1 align="center">Hi 👋, I'm Spurti</h1>
+
+
+<p>
+💻 I’m currently interning at <strong>Elektrobit</strong> as a Software Developer Intern
+</p>
+
+<p>
+🔭 I’m currently working on a <strong>Large Vision Model for Multi-Modal Crime Scene Analysis</strong>
+</p>
+
+<p>
+🌱 I’m currently learning <strong>gRPC</strong> and building a <strong>software module for Mercedes</strong>
+</p>
+
 <p>
 👯‍♀️ I’m always on the lookout for exciting collaboration opportunities and eager to learn and explore new technologies! Whether it's a creative project, tech innovation, or anything in between.
 </p>
+
+<p>
+📫 How to reach me: <a href="mailto:spurtibhat2004@gmail.com">spurtibhat2004@gmail.com</a>
+</p>
+
 
 <br>
 <h1 align="center">Let's Connect!</h1>
