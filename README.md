@@ -138,6 +138,7 @@
 
 <br>
 
+<h2 align="center">My LeetCode Badges</h2>
 ## 🏅 My LeetCode Badges
 
 <p align="center">
