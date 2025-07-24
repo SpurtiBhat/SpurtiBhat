@@ -142,10 +142,10 @@
 
 <p align="center">
   <img src="100-days.png" alt="100 Days Badge" height="100"/>
-  <img src="50-days-days.png" alt="100 Days Badge" height="100"/>
-  <img src="50-days(2).png" alt="100 Days Badge" height="100"/>
-  <img src="feb.png" alt="100 Days Badge" height="100"/>
-  <img src="marpng" alt="100 Days Badge" height="100"/>
+  <img src="50-days.png" alt="50 Days Badge" height="100"/>
+  <img src="50-days(2).png" alt="50 Days Badge" height="100"/>
+  <img src="feb.png" alt="feb Badge" height="100"/>
+  <img src="mar.png" alt="mar Days Badge" height="100"/>
   <img src="" alt="100 Days Badge" height="100"/>
 </p>
 
