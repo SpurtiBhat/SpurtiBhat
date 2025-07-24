@@ -139,7 +139,6 @@
 <br>
 
 <h2 align="center">My LeetCode Badges</h2>
-## 🏅 My LeetCode Badges
 
 <p align="center">
   <img src="100-days.png" alt="100 Days Badge" height="100"/>
