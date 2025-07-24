@@ -141,11 +141,11 @@
 ## 🏅 My Badges
 
 <p align="center">
-  <img src="badges/100-days.png" alt="100 Days Badge" height="100"/>
-  <img src="badges/50-days.png" alt="50 Days Badge" height="100"/>
-  <img src="badges/feb.png" alt="Feb Badge" height="100"/>
-  <img src="badges/mar.png" alt="Mar Badge" height="100"/>
-  <img src="badges/jun.png" alt="Jun Badge" height="100"/>
+  <img src="100-days.png" alt="100 Days Badge" height="100"/>
+  <img src="50-days.png" alt="50 Days Badge" height="100"/>
+  <img src="feb.png" alt="Feb Badge" height="100"/>
+  <img src="mar.png" alt="Mar Badge" height="100"/>
+  <img src="jun.png" alt="Jun Badge" height="100"/>
 </p>
 
 
