@@ -138,10 +138,15 @@
 
 <br>
 
-![50 Days Streak](https://img.shields.io/badge/LeetCode-🔥%2050%20Day%20Streak-orange?style=flat-square&logo=leetcode)
-![100 Problems Solved](https://img.shields.io/badge/LeetCode-✅%20100%20Problems%20Solved-success?style=flat-square&logo=leetcode)
-![Contest Rating](https://img.shields.io/badge/LeetCode-⭐%201500%20Rating-yellow?style=flat-square&logo=leetcode)
+## 🏅 My Badges
 
+<p align="center">
+  <img src="badges/100-days.png" alt="100 Days Badge" height="100"/>
+  <img src="badges/50-days.png" alt="50 Days Badge" height="100"/>
+  <img src="badges/feb.png" alt="Feb Badge" height="100"/>
+  <img src="badges/mar.png" alt="Mar Badge" height="100"/>
+  <img src="badges/jun.png" alt="Jun Badge" height="100"/>
+</p>
 
 
 
