@@ -138,6 +138,9 @@
 
 <br>
 
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Spurti__bhat-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/Spurti_bhat/)
+
+
 <!-- GitHub Stats Section -->
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
