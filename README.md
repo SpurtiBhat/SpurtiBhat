@@ -138,7 +138,8 @@
 
 <br>
 
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Spurti__bhat-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/Spurti_bhat/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Spurti_bhat?theme=dark&font=baloo&ext=contest)
+
 
 
 <!-- GitHub Stats Section -->
