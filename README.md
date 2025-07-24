@@ -138,7 +138,10 @@
 
 <br>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Spurti_bhat?theme=dark&font=baloo&ext=contest)
+![50 Days Streak](https://img.shields.io/badge/LeetCode-🔥%2050%20Day%20Streak-orange?style=flat-square&logo=leetcode)
+![100 Problems Solved](https://img.shields.io/badge/LeetCode-✅%20100%20Problems%20Solved-success?style=flat-square&logo=leetcode)
+![Contest Rating](https://img.shields.io/badge/LeetCode-⭐%201500%20Rating-yellow?style=flat-square&logo=leetcode)
+
 
 
 
