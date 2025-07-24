@@ -138,15 +138,12 @@
 
 <br>
 
-## 🏅 My Badges
+## 🏅 My LeetCode Badges
 
 <p align="center">
-  <img src="100-days.png" alt="100 Days Badge" height="100"/>
-  <img src="50-days.png" alt="50 Days Badge" height="100"/>
-  <img src="feb.png" alt="Feb Badge" height="100"/>
-  <img src="mar.png" alt="Mar Badge" height="100"/>
-  <img src="jun.png" alt="Jun Badge" height="100"/>
+  <img src="https://leetcode.com/medal/?showImg=0&id=7189179&isLevel=false" alt="LeetCode Badge" height="100"/>
 </p>
+
 
 
 
