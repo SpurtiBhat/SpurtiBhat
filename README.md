@@ -145,8 +145,8 @@
   <img src="50-days.png" alt="50 Days Badge" height="100"/>
   <img src="50-days(2).png" alt="50 Days Badge" height="100"/>
   <img src="feb.png" alt="feb Badge" height="100"/>
-  <img src="mar.png" alt="mar Days Badge" height="100"/>
-  <img src="" alt="100 Days Badge" height="100"/>
+  <img src="mar.png" alt="march Badge" height="100"/>
+  <img src="jun.png" alt="june Badge" height="100"/>
 </p>
 
 
