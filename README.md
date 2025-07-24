@@ -141,8 +141,14 @@
 ## 🏅 My LeetCode Badges
 
 <p align="center">
-  <img src="https://leetcode.com/medal/?showImg=0&id=7189179&isLevel=false" alt="LeetCode Badge" height="100"/>
+  <img src="100-days.png" alt="100 Days Badge" height="100"/>
+  <img src="50-days-days.png" alt="100 Days Badge" height="100"/>
+  <img src="50-days(2).png" alt="100 Days Badge" height="100"/>
+  <img src="feb.png" alt="100 Days Badge" height="100"/>
+  <img src="marpng" alt="100 Days Badge" height="100"/>
+  <img src="" alt="100 Days Badge" height="100"/>
 </p>
+
 
 
 
